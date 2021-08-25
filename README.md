@@ -1,10 +1,4 @@
-
-# Kopo Profile
-
-* Vue.js Practice repo for educational purpose. 
-* And it will be used by korea polytechnics college students in their front-end class.
-* This repo is forked from https://github.com/mayank091193/mayank-profile.
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e513c753-0a42-4ede-8a8b-2cd23106649c/deploy-status)](https://app.netlify.com/sites/suspicious-davinci-e96868/deploys)
 
 ## Resources used
 * [Quasar Framework](https://quasar.dev/)
@@ -34,30 +28,6 @@ quasar dev
 ```bash
 quasar build
 ```
-## Screens UI
-**Home**
-<p float="left">
-	<kbd>
-<img src="assets/homepage.png" border="1" alt="Home"
-	title="Home"  />
-		</kbd>
-</p>
-
-**Projects**
-<p float="left">
-	<kbd>
-<img src="assets/works.png" border="1" alt="Works"
-	title="Portfolio"  />	
-	</kbd>
-</p>
-
-**Sketches**
-<p float="left">
-	<kbd>
-<img src="assets/photo.png" border="1" alt="Photos"
-	title="Pricing"  />
-	</kbd>
-</p>
 
 
 ### Customize the configuration
